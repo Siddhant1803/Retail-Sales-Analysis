@@ -1,8 +1,9 @@
 # Retail Sales Analysis
 
 ## Define Objective
-### To enhance sales performance and employee satisfaction by developing a data-driven strategy that correlates workforce attributes with sales outcomes, identifies areas for targeted training and development, and 
-integrates disparate data sources for a holistic understanding of the impact of workforce management on sales efficiency.
+### To enhance sales performance and employee satisfaction by developing a data-driven strategy that correlates workforce attributes with sales outcomes, identifies areas for targeted training and development, and integrates disparate data sources for a holistic understanding of the impact of workforce management on sales efficiency.
+
+
 
 ## Key Performance Indicator
 | Key Performance Indicator     | Decision It Can Help Drive                                                                                                     | 
@@ -13,6 +14,13 @@ integrates disparate data sources for a holistic understanding of the impact of 
 | Discount Effectiveness        |Measure the impact of discount strategies on sales volumes and profitability for different products.                            |
 | Average Sales per Product     |Understand the average revenue contribution of each product, identifying high and low performers.                               |
 | Customer Reach Index          |auge the popularity and reach of each product among the customer base, indicating market penetration and customer preference.   |  
+
+
+
+# Report of KPI's
+
+<img width="594" alt="image" src="https://github.com/Siddhant1803/Retail-Sales-Analysis/assets/127285389/cc00eb11-9f36-42c2-bb31-916d6964756d">
+
 
 
 
@@ -28,3 +36,8 @@ Q3. Who are top performing state and city sales managers under Rohan Sharma?
 Q4. What are the sales under Rohan Sharma by store type?
 
 Q5. Who are the top performing sales reps in sales and profit?
+
+
+# Report on Relvant Question
+
+<img width="595" alt="image" src="https://github.com/Siddhant1803/Retail-Sales-Analysis/assets/127285389/0dd975e2-a026-4a90-9cf3-7aa4c604039f">
