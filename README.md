@@ -19,7 +19,7 @@
 
 # Report of KPI's
 
-<img width="594" alt="image" src="https://github.com/Siddhant1803/Retail-Sales-Analysis/assets/127285389/cc00eb11-9f36-42c2-bb31-916d6964756d">
+<img width="800" height="1000" alt="image" src="https://github.com/Siddhant1803/Retail-Sales-Analysis/assets/127285389/cc00eb11-9f36-42c2-bb31-916d6964756d">
 
 
 
@@ -40,4 +40,4 @@ Q5. Who are the top performing sales reps in sales and profit?
 
 # Report on Relvant Question
 
-<img width="595" alt="image" src="https://github.com/Siddhant1803/Retail-Sales-Analysis/assets/127285389/0dd975e2-a026-4a90-9cf3-7aa4c604039f">
+<img width="800" height="1000" alt="image" src="https://github.com/Siddhant1803/Retail-Sales-Analysis/assets/127285389/0dd975e2-a026-4a90-9cf3-7aa4c604039f">
